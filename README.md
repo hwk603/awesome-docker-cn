@@ -1,2 +1,0 @@
-# docker
-push from daocloud
