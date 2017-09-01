@@ -47,21 +47,21 @@ ps. 还有其他包括网易/ustc等在内的优秀镜像这里就不一一列�
 
 - #### 入门
 
- * [Docker 教程 - 菜鸟教程](http://www.runoob.com/docker/docker-tutorial.html)
+   * [Docker 教程 - 菜鸟教程](http://www.runoob.com/docker/docker-tutorial.html)
 
- * [Docker 教程 - W3Cschool](https://www.w3cschool.cn/docker/)
+   * [Docker 教程 - W3Cschool](https://www.w3cschool.cn/docker/)
 
- * [Docker 入门教程 - 看云](https://www.kancloud.cn/kancloud/docker-guide/220868)
+   * [Docker 入门教程 - 看云](https://www.kancloud.cn/kancloud/docker-guide/220868)
 
- * [Docker 实战之旅 - 网易云课堂](http://study.163.com/course/introduction/1273002.htm)
+   * [Docker 实战之旅 - 网易云课堂](http://study.163.com/course/introduction/1273002.htm)
 
- * [Docker 系列视频 - 极客学院](http://www.jikexueyuan.com/course/docker/)
+   * [Docker 系列视频 - 极客学院](http://www.jikexueyuan.com/course/docker/)
 
- * [动手实战学 Docker - 实验楼](https://www.shiyanlou.com/courses/498)
+   * [动手实战学 Docker - 实验楼](https://www.shiyanlou.com/courses/498)
 
 - #### 高级
 
-[使用 Kubernetes 进行可扩展微服务](https://cn.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+   * [使用 Kubernetes 进行可扩展微服务](https://cn.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
 ### 博客
 
